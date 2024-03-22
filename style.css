@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(174, 170, 170);
+    text-align: center;
+}
+
+
+#mycanvas {
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: blue;
+}
